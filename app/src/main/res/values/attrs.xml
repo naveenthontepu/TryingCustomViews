@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BottomSheet">
+        <attr name="showingElement" format="reference"/>
+        <attr name="hiddenElement" format="reference"/>
+        <attr name="hiddenElementSize" format="dimension"/>
+        <attr name="shownElementSize" format="dimension"/>
+        <attr name="animationDuration" format="integer"/>
+    </declare-styleable>
+</resources>
